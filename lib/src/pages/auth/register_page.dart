@@ -39,7 +39,7 @@ class RegisterPage extends StatelessWidget {
               const Expanded(
                 child: Center(
                   child: Text(
-                    "Cadastro",
+                    "alterar depoois cadastro",
                     style: TextStyle(
                       color: Colors.white,
                       fontSize: 35,

@@ -21,7 +21,7 @@ class _BaseScreenState extends State<BaseScreen> {
         controller: pageController,
         children: [
           const HomeTab(),
-          Container(color: Colors.red),
+          Container(color: Colors.green),
           Container(color: Colors.blue),
           Container(color: Colors.yellow),
         ],
