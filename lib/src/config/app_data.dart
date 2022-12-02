@@ -29,7 +29,7 @@ ItemModel kiwi = ItemModel(
   imgUrl: "assets/fruits/kiwi.png",
   itemName: "Kiwi",
   price: 15.4,
-  unit: "kg",
+  unit: "un",
   description: "A melhor kiwi do mercado está aqui, compre ja antes que acabe",
 );
 
